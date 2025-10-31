@@ -8,7 +8,7 @@ public class H1_main {
 		
 		if (z > 10) { z -= 10; System.out.print ("d hat den Wert" + z);}
 		
-		else { System.out.print ("d hat den Wert" + z);}
+		else { System.out.print ("d hat den Wert " + z);}
 
 	}
 

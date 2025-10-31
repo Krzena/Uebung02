@@ -17,8 +17,8 @@ public class H2_main {
 		if (k > max) {max = k;}
 		
  
- System.out.println ("Minimum hat den Wert" + min);
- System.out.println ("Maximum hat den Wert" + max);
+ System.out.println ("Minimum hat den Wert " + min);
+ System.out.println ("Maximum hat den Wert " + max);
 	}
 
 }
