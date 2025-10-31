@@ -8,9 +8,9 @@ public class P3_main {
 		int j = 10;
 		int k = 17;		
 
-if (i < j) { System.out.print ("A");}
-if (i < k) { System.out.print ("B");}
-if (j < k) { System.out.print ("C");}	
+if (i < j) { System.out.println ("A");}
+if (i < k) { System.out.println ("B");}
+if (j < k) { System.out.println ("C");}	
 
 }
 	}
